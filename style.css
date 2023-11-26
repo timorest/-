@@ -1,0 +1,31 @@
+*{
+margin:0 ;
+padding:0;
+}
+.mother{
+   max-width: 700px;
+   margin:0 auto;
+}
+body{
+    background-color:#E29522 ;
+}
+h1{
+    background-color:#E29522 ;
+    color:white;
+    font-family:'Shantell Sans', cursive; ;
+}
+
+p{
+   font-family:'Shantell Sans', cursive; ;
+}
+img{
+    width: 100%;
+}
+
+
+.css{
+    /* display: flex;
+    width: 600px; ;
+    justify-content: space-between; */
+    text-align: right;
+}
